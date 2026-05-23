@@ -5,7 +5,7 @@ Data, Data Everywhere
 How data is stored
 ++++++++++++++++++
 
-Data streams itself right from when the gates of a stock exchange open to when it closes. Such data contains vital information that is archived each day. Some of the many types of information recieved after trading hours are - *opening price*, *closing price*, *volumne of shares*, *highest price*, *lowest price*, etc. for each enterprise.
+Data streams itself right from when the gates of a stock exchange open to when it closes. Such data contains vital information that is archived each day. Some of the many types of information received after trading hours are - *opening price*, *closing price*, *volumne of shares*, *highest price*, *lowest price*, etc. for each enterprise.
 
 **bulbea** helps you access such information (both - archived and the latest). Simply create a :py:class:`Share <bulbea.Share>` with a known :code:`source` and :code:`ticker` as follows:
 
